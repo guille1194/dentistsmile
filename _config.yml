@@ -9,7 +9,7 @@ logo_url: svg/min/logo.svg
 hero: 
     hero_img: hero.jpg
     hero_title: DentistSmile
-    hero_description: A responsive Jekyll theme for dental clinics.
+    hero_description: "Newborn, Kids, Engagement and Family Portraits"
 
 # Contact form
 api_token: # Enter API token here
