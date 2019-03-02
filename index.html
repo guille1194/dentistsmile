@@ -123,7 +123,7 @@ layout: default
                 </div>
             </div>
             <div class="col-sm-6">
-                <img src="/img/about.jpg" alt="...">
+                <img src="img/about.jpg" alt="...">
             </div>
         </div>
     </div>
@@ -157,7 +157,7 @@ layout: default
     {% for member in site.data.team %}
         <div class="expandable-box">
             <div class="expandable-box-top">
-                <img src="{{ site.baseurl }}{{ member.image }}" alt="{{ member.name }}">
+                <img src="{{ site.baseurl }}/img/{{ member.image }}" alt="{{ member.name }}">
                 <h4>{{ member.name }}</h4>
             </div>
             <div class="expandable-box-bottom">
