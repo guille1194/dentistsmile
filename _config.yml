@@ -1,6 +1,6 @@
 # Site settings
 title: AraizasPhotography | Newborn, Kids, Engagement and Family Portraits
-description: "A responsive Jekyll theme for dental clinics."
+description: "Newborn, Kids, Engagement and Family Portraits"
 baseurl: "/dentistsmile/" # the subpath of your site, e.g. /blog
 url: "" # the name of your domain
 logo_url: svg/min/logo.svg
